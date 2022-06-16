@@ -14,6 +14,10 @@ router: [tp link er605](https://www.tp-link.com/us/business-networking/omada-sdn
 
 switch: [tp link tl-sg108PE v3](https://www.tp-link.com/us/business-networking/surveillance-switch/tl-sg108pe/)
 
+## specifications
+
+the rack itself is modeled from [standard server rack rail](https://upload.wikimedia.org/wikipedia/commons/a/a9/Server_rack_rail_dimensions.svg) dimentions. Then I chose a width based on my printer bed size: 8".
+
 ## progress
 
 ![image](https://user-images.githubusercontent.com/7338312/173958162-9d835a9b-077f-4f1c-bb52-cf5015249483.png)
