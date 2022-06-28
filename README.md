@@ -22,4 +22,4 @@ the rack itself is modeled from [standard server rack rail](https://upload.wikim
 
 ![image](https://user-images.githubusercontent.com/7338312/174907096-8425e722-8368-4483-86ed-644db06cf5b4.png)
 
-![image](https://user-images.githubusercontent.com/7338312/174907116-f28d2ddf-0005-4e9c-851b-25f5006afdf4.png)
+![IMG_1953](https://user-images.githubusercontent.com/7338312/176074830-9c0f1021-53ce-43c3-afc6-d9b62f485972.jpg)
